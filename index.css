@@ -14,13 +14,13 @@ article {
   width: 400px;
   margin: 20px;
 }
-button {
+.buttonClass {
   color: rgb(2, 124, 124);
   border-radius: 1px;
   border-color: rgb(17, 124, 124);
   background-color: rgb(197, 212, 227);
 }
-button:hover {
+.buttonClass:hover {
   background-color: rgb(176, 251, 248);
   cursor: grab;
 }
